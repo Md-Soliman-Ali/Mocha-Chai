@@ -1,9 +1,7 @@
 # Mocha-Chai Framework
 
-``
-Mocha is a feature-rich JavaScript test framework for node.j
-Chai is a BDD/TDD Assertion library for node.js
-``
+- Mocha is a feature-rich JavaScript test framework for node.j
+- Chai is a BDD/TDD Assertion library for node.js
 
 Some VS Code User Shortcut
 --------------------------
@@ -18,6 +16,7 @@ Install Following Package
 ``
  npm i mocha chai 
 ``
+<<<<<<< HEAD
 
 How To Run
 ----------
@@ -25,3 +24,5 @@ How To Run
 ``
 npx mocha --timeout=30000 .\calculation.test.js
 ``
+=======
+>>>>>>> 6591b0cd07c21ebaa3b2749bd0b914db08d768ac

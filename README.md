@@ -16,7 +16,6 @@ Install Following Package
 ``
  npm i mocha chai 
 ``
-<<<<<<< HEAD
 
 How To Run
 ----------
@@ -24,5 +23,3 @@ How To Run
 ``
 npx mocha --timeout=30000 .\calculation.test.js
 ``
-=======
->>>>>>> 6591b0cd07c21ebaa3b2749bd0b914db08d768ac

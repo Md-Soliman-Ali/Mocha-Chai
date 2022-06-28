@@ -1,9 +1,7 @@
 # Mocha-Chai Framework
 
-``
-Mocha is a feature-rich JavaScript test framework for node.j
-Chai is a BDD/TDD Assertion library for node.js
-``
+- Mocha is a feature-rich JavaScript test framework for node.j
+- Chai is a BDD/TDD Assertion library for node.js
 
 Some VS Code User Shortcut
 --------------------------

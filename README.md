@@ -21,8 +21,15 @@ Install Following Package
  npm i mocha chai 
 ``
 
+``
+ npm i shelljs 
+``
+
 How To Run
 ----------
+``
+npm test file .\calculation.test.js
+``
 
 ``
 npx mocha --timeout=30000 .\calculation.test.js

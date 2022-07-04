@@ -1,4 +1,4 @@
-// Describe: Scenario Name
+// Describe: Scenario Name, CallBack Function
 // Annotation (before, after, beforeEach, afterEach)
 // IT: Test Case (Test Case Title, Excution CallBack Function)
 // it.skip (skips the test case); it.only (runs only that test case)
